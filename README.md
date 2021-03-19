@@ -1,1 +1,1 @@
-# Computer Vision - image-pyramid-using-fft
+# Image Processing - image-pyramid-using-fft
